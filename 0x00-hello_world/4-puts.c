@@ -1,9 +1,8 @@
-/*
+/**
  * File: 4-puts.c
  * Auth: Joshua Kenedinum
  */
 #include <stdio.h>
-
 /**
  * main prints programming is like building a multilingual
  *             puzzle, followed by a new line.
