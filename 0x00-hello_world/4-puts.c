@@ -1,6 +1,6 @@
 /*
  * File: 4-puts.c
- * Auth: Joshua Kenedinum <joshua.kenedinum@gmail.com>
+ * Auth: Joshua Kenedinum
  */
 #include <stdio.h>
 
