@@ -1,10 +1,8 @@
 /*
  * File: 9-times_table.c
- * Auth: Brennan D Baraban
+ * Auth: Joshua Kenedinum
  */
-
-#include "holberton.h"
-
+#include "main.h"
 /**
  * times_table - Prints the 9 times table, starting with 0.
  */
